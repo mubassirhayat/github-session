@@ -1,8 +1,1 @@
-<html>
-	<head>
-		<title>Title</title>
-	</head>
-	<body>
-		<h1>Heading</h1>
-	</body>
-</html>
+<h1>Heading</h1>
